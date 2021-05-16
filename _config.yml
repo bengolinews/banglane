@@ -1,10 +1,10 @@
 # Site
 title:              Muhammad Sohel Khan
 bio:                'Muhammad Sohel Khan is a musical artist, youtuber, photographer'
-description:        " Muhammad Sohel Khan is a bangladeshi singer"
+description:        " Muhammad Sohel Khan is a bangladeshi singer. Besides he is youtuber, photographer, songwriter."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/sohel.jpg'
+logo:               'assets/img/sohel2.jpg'
 background:         'assets/img/back.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
